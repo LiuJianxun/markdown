@@ -112,8 +112,8 @@ id sem consectetuer libero luctus adipiscing.
 选择性地接着 title 内容，可以用单引号、双引号或是括弧包着
 
 下面这三种链接的定义都是相同：
-1. [PHPXUN.COM](http://phpxun.com/)  "This is my blog home page"
-2. [JIANXUNS.COM](http://jianxuns.com/)  'This is my worldpress'
++ 1. [PHPXUN.COM](http://phpxun.com/)  "This is my blog home page"
++ 2. [JIANXUNS.COM](http://jianxuns.com/)  'This is my worldpress'
 
 *****************
 
