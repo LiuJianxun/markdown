@@ -1,4 +1,0 @@
-#This programe is copy the file to local 
-
-Hello , test your copy the file Use SCP
-
